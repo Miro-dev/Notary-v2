@@ -1,3 +1,5 @@
+https://notary2.netlify.com
+
 This is a reading, document information API.
 
 You can:
